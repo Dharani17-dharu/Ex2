@@ -71,3 +71,43 @@ def main():
 
 if __name__ == "__main__":
     main()
+Menu:
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Exit
+Enter your choice (1-4): 1
+Enter the song title to add: Bohemian Rhapsody
+Song 'Bohemian Rhapsody' added.
+
+Menu:
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Exit
+Enter your choice (1-4): 1
+Enter the song title to add: Hotel California
+Song 'Hotel California' added.
+
+Menu:
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Exit
+Enter your choice (1-4): 3
+1. Bohemian Rhapsody
+2. Hotel California
+
+Menu:
+1. Add Song
+2. Delete Song
+3. Display Playlist
+4. Exit
+Enter your choice (1-4): 2
+Enter the title to delete: Bohemian Rhapsody
+Song 'Bohemian Rhapsody' deleted.
+
+Menu:
+1. Add Song
+2. Delete Song
+3.
